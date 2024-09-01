@@ -1,0 +1,24 @@
+This software and/or dataset is Copyright © 2024 The University of Southern California. All Rights Reserved.
+
+Permission to use, copy, modify, and distribute this software and/or dataset and its documentation for educational, research and non-profit purposes, without fee, and without a written agreement is hereby granted, provided that the above copyright notice, this paragraph and the following three paragraphs appear in all copies.
+
+Permission to make commercial use of this software and/or dataset may be obtained by contacting:
+USC Stevens Center for Innovation
+University of Southern California
+1150 S. Olive Street, Suite 2300
+Los Angeles, CA 90115, USA
+
+This software program and/or dataset and documentation are copyrighted by The University of Southern California. The software program and/or dataset and documentation are supplied "as is", without any accompanying services from USC. USC does not warrant that the operation of the program and/or use of the dataset will be uninterrupted or error-free. The end-user understands that the program and/or dataset was developed for research purposes and is advised not to rely exclusively on the program and/or dataset for any reason.
+
+IN NO EVENT SHALL THE UNIVERSITY OF SOUTHERN CALIFORNIA BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, ARISING OUT OF THE USE OF THIS SOFTWARE AND/OR DATASET AND ITS DOCUMENTATION, EVEN IF THE UNIVERSITY OF SOUTHERN CALIFORNIA HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THE UNIVERSITY OF SOUTHERN CALIFORNIA SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE SOFTWARE AND/OR DATASET PROVIDED HEREUNDER IS ON AN "AS IS" BASIS, AND THE UNIVERSITY OF SOUTHERN CALIFORNIA HAS NO OBLIGATIONS TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
+
+Further, this work is a derivative created from the dataset of ImageNet (see https://www.image-net.org/). The end-user/licensee should abide by these additional terms and conditions under which the ImageNet dataset has been licensed:
+
+[RESEARCHER_FULLNAME] (the "Researcher") has requested permission to use the ImageNet database (the "Database") at Princeton University and Stanford University. In exchange for such permission, Researcher hereby agrees to the following terms and conditions:
+1.	Researcher shall use the Database only for non-commercial research and educational purposes.
+2.	Princeton University and Stanford University make no representations or warranties regarding the Database, including but not limited to warranties of non-infringement or fitness for a particular purpose.
+3.	Researcher accepts full responsibility for his or her use of the Database and shall defend and indemnify the ImageNet team, Princeton University, and Stanford University, including their employees, Trustees, officers and agents, against any and all claims arising from Researcher's use of the Database, including but not limited to Researcher's use of any copies of copyrighted images that he or she may create from the Database.
+4.	Researcher may provide research associates and colleagues with access to the Database provided that they first agree to be bound by these terms and conditions.
+5.	Princeton University and Stanford University reserve the right to terminate Researcher's access to the Database at any time.
+6.	If Researcher is employed by a for-profit, commercial entity, Researcher's employer shall also be bound by these terms and conditions, and Researcher hereby represents that he or she is fully authorized to enter into this agreement on behalf of such employer.
+7.	The law of the State of New Jersey shall apply to all disputes under this agreement.
